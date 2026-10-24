@@ -1,0 +1,1 @@
+export const darkLayer = "rgba(10,10,10,0.2)";
